@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**Royalphax/Royalphax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile! 
 
-Here are some ideas to get you started:
+I'm an electronic embedded systems engineer, driven by **curiosity** ✨, **passion** ❤️ and **willingness** ✊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+I discovered software development in 2013 while coding extensions for the game [Minecraft](https://www.minecraft.net) ... <img src="https://media.giphy.com/media/RiUO0uRkmAMd5GFlx6/giphy.gif" width="50px"/>
+
+... and what was initially a fun hobbit became more and more interesting and led me to learn in a lot of computer science domains 🔍
+
+<hr/>
+
+Nowadays, I program for personal and open source projects in a wide range of fields.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalphax&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+![Royalphax's GitHub stats](https://github-readme-stats.vercel.app/api/?username=royalphax&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
