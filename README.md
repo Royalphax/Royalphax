@@ -17,8 +17,6 @@ I discovered software development in 2013 while coding extensions for the game [
 
 Nowadays, I program for personal and open source projects in a wide range of fields.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalphax&layout=compact&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=30,61A8FE,497EBF)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Royalphax's GitHub stats](https://github-readme-stats.vercel.app/api/?username=royalphax&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=30,61A8FE,497EBF)
 
 
