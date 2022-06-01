@@ -1,6 +1,6 @@
 <h1>
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 ### Welcome to my profile! 
@@ -9,7 +9,7 @@ I'm an electronic embedded systems engineer, driven by **curiosity** ✨, **pass
 
 <hr/>
 
-I discovered software development in 2013 while coding extensions for the game [Minecraft](https://www.minecraft.net) ... <img src="https://media.giphy.com/media/RiUO0uRkmAMd5GFlx6/giphy.gif" width="50px"/>
+I discovered software development in 2013 while coding extensions for the game [Minecraft](https://www.minecraft.net) ... <img src="https://media.giphy.com/media/RiUO0uRkmAMd5GFlx6/giphy.gif" width="50"/>
 
 ... and what was initially a fun hobbit became more and more interesting and led me to learn in a lot of computer science domains 🔍
 
