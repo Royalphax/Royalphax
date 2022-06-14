@@ -5,7 +5,7 @@
 
 ### Welcome to my profile! 
 
-I'm an electronic embedded systems engineer, driven by **curiosity** ✨, **passion** ❤️ and **willingness** ✊.
+I'm a Junior Electronic Embedded Systems Engineer, driven by **curiosity** ✨, **passion** ❤️ and **willingness** ✊.
 
 <hr/>
 
