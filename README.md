@@ -4,7 +4,7 @@
 </h1>
 
 ### Welcome to my profile! 
-I'm a Junior Electronics Embedded Systems Engineer, fueled by **curiosity** ✨, **passion** ❤️, and **determination** ✊.
+I'm an Electronic Systems Engineer, fueled by **curiosity** ✨, **passion** ❤️, and **determination** ✊.
 
 I discovered software development in 2013 while creating extensions for games. What began as an enjoyable hobby quickly became increasingly intriguing, leading me to explore various computer science domains.
 
